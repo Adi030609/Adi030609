@@ -8,4 +8,5 @@
 <!---
 Adi030609/Adi030609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi030609)](https://github.com/Adi030609/github-readme-stats)
 --->
