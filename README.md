@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow Icon" width="100" />
-</p>
-
-<h1 align="center">👋 Hello, I'm Aditya Pratap Singh (Adi030609)!</h1>
+<h1 align="center">👋 Hello, I'm Aditya!</h1>
 <h3 align="center">🧠 AI Enthusiast | Machine Learning Engineer | Problem Solver</h3>
 
 ---
